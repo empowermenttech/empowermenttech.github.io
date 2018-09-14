@@ -1,7 +1,9 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 
@@ -28,7 +30,9 @@
 }
 #content5-28 .mbr-header .mbr-header__text {
   text-align: center;
-  color: #fff;
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 32px;
 }
 #content5-28 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -37,14 +41,14 @@
 #content5-28 .mbr-article {
   color: #fff;
 }
-#slider-2 H1 {
-  color: #faaf40;
-  font-family: 'Oswald', sans-serif;
-}
 #features1-19 .mbr-section__col .mbr-header__text {
   color: #ffffff;
   font-family: 'Indie Flower', cursive;
   font-size: 21px;
+}
+#slider-2 H1 {
+  color: #faaf40;
+  font-family: 'Oswald', sans-serif;
 }
 
 #dropdown-menu-2btn-b .hide-buttons [data-button] {
@@ -68,15 +72,15 @@
 #dropdown-menu-2btn-b .navbar-toggler {
   color: #ffffff;
 }
-#content5-27 .mbr-header .mbr-header__text {
+#content5-29 .mbr-header .mbr-header__text {
   text-align: center;
   color: #fff;
 }
-#content5-27 .mbr-header .mbr-header__subtext {
+#content5-29 .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-27 .mbr-article {
+#content5-29 .mbr-article {
   color: #fff;
 }
 #slider-25 H1 {
