@@ -1,0 +1,242 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
+
+
+#dropdown-menu-2btn-1 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1 .nav .link,
+#dropdown-menu-2btn-1 .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-1 .navbar,
+#dropdown-menu-2btn-1 .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-1 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1 .dropdown-menu a:hover,
+#dropdown-menu-2btn-1 .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-1 .navbar-toggler {
+  color: #ffffff;
+}
+#slider-2 H1 {
+  color: #faaf40;
+  font-family: 'Oswald', sans-serif;
+}
+#features1-19 .mbr-section__col .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Indie Flower', cursive;
+  font-size: 21px;
+}
+
+#dropdown-menu-2btn-b .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-b .nav .link,
+#dropdown-menu-2btn-b .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-b .navbar,
+#dropdown-menu-2btn-b .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-b .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-b .dropdown-menu a:hover,
+#dropdown-menu-2btn-b .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-b .navbar-toggler {
+  color: #ffffff;
+}
+#slider-25 H1 {
+  color: #fac51c;
+  font-size: 32px;
+}
+#slider-25 P {
+  font-size: 17px;
+}
+
+
+#dropdown-menu-2btn-g .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-g .nav .link,
+#dropdown-menu-2btn-g .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-g .navbar,
+#dropdown-menu-2btn-g .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-g .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-g .dropdown-menu a:hover,
+#dropdown-menu-2btn-g .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-g .navbar-toggler {
+  color: #ffffff;
+}
+#content5-22 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content5-22 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-22 .mbr-article {
+  color: #fff;
+}
+
+
+#dropdown-menu-2btn-t .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-t .nav .link,
+#dropdown-menu-2btn-t .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-t .navbar,
+#dropdown-menu-2btn-t .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-t .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-t .dropdown-menu a:hover,
+#dropdown-menu-2btn-t .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-t .navbar-toggler {
+  color: #ffffff;
+}
+#content5-23 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content5-23 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-23 .mbr-article {
+  color: #fff;
+}
+
+
+#dropdown-menu-2btn-x .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-x .nav .link,
+#dropdown-menu-2btn-x .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-x .navbar,
+#dropdown-menu-2btn-x .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-x .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-x .dropdown-menu a:hover,
+#dropdown-menu-2btn-x .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-x .navbar-toggler {
+  color: #ffffff;
+}
+#content5-20 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content5-20 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-20 .mbr-article {
+  color: #fff;
+}
+
+
+#dropdown-menu-2btn-11 .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-11 .nav .link,
+#dropdown-menu-2btn-11 .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#dropdown-menu-2btn-11 .navbar,
+#dropdown-menu-2btn-11 .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-11 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-11 .dropdown-menu a:hover,
+#dropdown-menu-2btn-11 .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-11 .navbar-toggler {
+  color: #ffffff;
+}
+#content5-24 .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #fff;
+  font-size: 60px;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+#content5-24 .mbr-header .mbr-header__subtext {
+  text-align: center;
+  color: #fff;
+}
+#content5-24 .mbr-article {
+  color: #fff;
+}
+
+
+#dropdown-menu-2btn-1s .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-1s .nav .link,
+#dropdown-menu-2btn-1s .dropdown-item {
+  font-size: 1.2em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-1s .navbar,
+#dropdown-menu-2btn-1s .dropdown-menu {
+  background: #7ac673;
+}
+#dropdown-menu-2btn-1s .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-1s .dropdown-menu a:hover,
+#dropdown-menu-2btn-1s .dropdown-menu a:focus {
+  background: #6cc065;
+}
+#dropdown-menu-2btn-1s .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box2-1z .mbr-header .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: left;
+  font-size: 48px;
+}
+#msg-box2-1z .mbr-article {
+  color: #252525;
+}
