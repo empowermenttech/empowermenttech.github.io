@@ -2,7 +2,7 @@
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
 @import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+
 
 
 
@@ -10,9 +10,12 @@
 #dropdown-menu-2btn-1 .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-1 .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
 #dropdown-menu-2btn-1 .nav .link,
 #dropdown-menu-2btn-1 .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
@@ -51,12 +54,17 @@
   font-family: 'Oswald', sans-serif;
 }
 
+
+
 #dropdown-menu-2btn-b .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-b .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
 #dropdown-menu-2btn-b .nav .link,
 #dropdown-menu-2btn-b .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
@@ -72,16 +80,21 @@
 #dropdown-menu-2btn-b .navbar-toggler {
   color: #ffffff;
 }
-#content5-29 .mbr-header .mbr-header__text {
+#content5-2a .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 32px;
+}
+#content5-2a .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
 }
-#content5-29 .mbr-header .mbr-header__subtext {
-  text-align: center;
+#content5-2a .mbr-article {
   color: #fff;
 }
-#content5-29 .mbr-article {
-  color: #fff;
+#content5-2a .mbr-header .mbr-header__text I {
+  font-size: 36px;
 }
 #slider-25 H1 {
   color: #fac51c;
@@ -92,12 +105,16 @@
 }
 
 
+
 #dropdown-menu-2btn-g .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-g .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
 #dropdown-menu-2btn-g .nav .link,
 #dropdown-menu-2btn-g .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
@@ -113,27 +130,34 @@
 #dropdown-menu-2btn-g .navbar-toggler {
   color: #ffffff;
 }
-#content5-22 .mbr-header .mbr-header__text {
+#content5-2c .mbr-header .mbr-header__text {
+  text-align: center;
+  color: #ffffff;
+  font-family: 'PT Sans Narrow', sans-serif;
+  font-size: 32px;
+}
+#content5-2c .mbr-header .mbr-header__subtext {
   text-align: center;
   color: #fff;
-  font-size: 60px;
-  font-family: 'Yanone Kaffeesatz', sans-serif;
 }
-#content5-22 .mbr-header .mbr-header__subtext {
-  text-align: center;
+#content5-2c .mbr-article {
   color: #fff;
 }
-#content5-22 .mbr-article {
-  color: #fff;
+#content5-2c .mbr-header .mbr-header__text I {
+  font-size: 36px;
 }
+
 
 
 #dropdown-menu-2btn-t .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-t .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
 #dropdown-menu-2btn-t .nav .link,
 #dropdown-menu-2btn-t .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
@@ -164,12 +188,16 @@
 }
 
 
+
 #dropdown-menu-2btn-x .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-x .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
 #dropdown-menu-2btn-x .nav .link,
 #dropdown-menu-2btn-x .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
@@ -200,14 +228,18 @@
 }
 
 
+
 #dropdown-menu-2btn-11 .hide-buttons [data-button] {
   display: none !important;
+}
+#dropdown-menu-2btn-11 .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-11 .nav .link,
 #dropdown-menu-2btn-11 .dropdown-item {
   font-size: 1em;
   color: #ffffff;
-  font-family: 'Montserrat', sans-serif;
+  font-family: 'Oswald', sans-serif;
 }
 #dropdown-menu-2btn-11 .navbar,
 #dropdown-menu-2btn-11 .dropdown-menu {
@@ -236,12 +268,16 @@
 }
 
 
+
 #dropdown-menu-2btn-1s .hide-buttons [data-button] {
   display: none !important;
 }
+#dropdown-menu-2btn-1s .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
 #dropdown-menu-2btn-1s .nav .link,
 #dropdown-menu-2btn-1s .dropdown-item {
-  font-size: 1.2em;
+  font-size: 1em;
   color: #ffffff;
   font-family: 'Oswald', sans-serif;
 }
