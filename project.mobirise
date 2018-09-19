@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Empowerment Technologies",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -4168,7 +4168,7 @@
           },
           "title1": "Introduction to ICT",
           "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"assets/files/EMP.pdf\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"assets/files/EMP.pptx\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "media2": {
             "image": {
               "src": "images/responsive.png",
