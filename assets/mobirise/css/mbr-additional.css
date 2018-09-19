@@ -1,8 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700);
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 @import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,700);
-
 
 
 
@@ -35,7 +33,7 @@
   text-align: center;
   color: #ffffff;
   font-family: 'PT Sans Narrow', sans-serif;
-  font-size: 32px;
+  font-size: 36px;
 }
 #content5-28 .mbr-header .mbr-header__subtext {
   text-align: center;
@@ -43,11 +41,6 @@
 }
 #content5-28 .mbr-article {
   color: #fff;
-}
-#features1-19 .mbr-section__col .mbr-header__text {
-  color: #ffffff;
-  font-family: 'Indie Flower', cursive;
-  font-size: 21px;
 }
 #slider-2 H1 {
   color: #faaf40;
