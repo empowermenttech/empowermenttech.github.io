@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Empowerment Technologies",
-    "currentPage": "index.html",
+    "currentPage": "page7.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -4396,7 +4396,7 @@
           },
           "headerAlign": "left",
           "meta": "By John Smith posted July 30, 2015",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GO</a>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://script.google.com/macros/s/AKfycbxCaJfhu7dW34jeNYLxGDYD_PEtp_zLMOf3mAK-/exec\" data-toolbar=\"-mbrBtnMove\">GO</a>",
           "_name": "msg-box4",
           "_anchor": "msg-box4-2j"
         },
