@@ -426,7 +426,7 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/42195888-299345937533459-4314730665321955328-n-1800x1008.jpg",
+                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1258.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
