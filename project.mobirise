@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Empowerment Technologies",
-    "currentPage": "page7.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -426,15 +426,17 @@
                 "overlay": true
               },
               {
-                "image": "images/slide2.jpg",
+                "image": "@PROJECT_PATH@/assets/images/42195888-299345937533459-4314730665321955328-n-1800x1008.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "STEM A",
+                "title": "Science, Technology, Engineering and Math(A)",
                 "contentAlign": "left",
-                "text": "N/A",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> "
+                "text": "Transcending the barriers, advancing to greatness. Alone shall we descend, but together should we ascend.\n<br>STEM A, the cradle of the future innovators.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page2.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.4"
               }
             ]
           },
