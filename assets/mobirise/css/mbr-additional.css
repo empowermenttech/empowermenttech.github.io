@@ -298,3 +298,48 @@
 #features1-1u P {
   color: #ffffff;
 }
+
+
+
+#dropdown-menu-2btn-2f .hide-buttons [data-button] {
+  display: none !important;
+}
+#dropdown-menu-2btn-2f .navbar-brand a {
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-2f .nav .link,
+#dropdown-menu-2btn-2f .dropdown-item {
+  font-size: 1em;
+  color: #ffffff;
+  font-family: 'Oswald', sans-serif;
+}
+#dropdown-menu-2btn-2f .navbar,
+#dropdown-menu-2btn-2f .dropdown-menu {
+  background: #000000;
+}
+#dropdown-menu-2btn-2f .dropdown-menu .dropdown-toggle[aria-expanded="true"],
+#dropdown-menu-2btn-2f .dropdown-menu a:hover,
+#dropdown-menu-2btn-2f .dropdown-menu a:focus {
+  background: #000000;
+}
+#dropdown-menu-2btn-2f .navbar-toggler {
+  color: #ffffff;
+}
+#msg-box2-2k .mbr-header .mbr-header__text {
+  color: #ffffff;
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+  text-align: left;
+  font-size: 48px;
+}
+#msg-box2-2k .mbr-article {
+  color: #252525;
+}
+#msg-box4-2j .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-2j .mbr-article {
+  color: #ffffff;
+}
