@@ -42,6 +42,12 @@
 #content5-28 .mbr-article {
   color: #fff;
 }
+#msg-box2-2m .mbr-header .mbr-header__text {
+  color: #f7da64;
+}
+#msg-box2-2m .mbr-article {
+  color: #252525;
+}
 #slider-2 H1 {
   color: #faaf40;
   font-family: 'Oswald', sans-serif;
