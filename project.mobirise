@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Empowerment Technologies",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 95,
+    "uniqCompNum": 96,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -190,15 +190,15 @@
             "bgColor": "#ffffff",
             "slides": [
               {
-                "image": "@PROJECT_PATH@/assets/images/microprocessor-chip-in-circuit-board-85757306-596fa28e6f53ba0011f9135c-768x576.jpg",
+                "image": "@PROJECT_PATH@/assets/images/cover-1200x800.jpg",
                 "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "HUMSS",
+                "title": "Segregation for a Better Nation",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+                "text": "We advocate cleanliness by means of segregation, we encourage you to contribute for our cost, not only for a better community, but also for the future genarations to come.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://scorrpy.github.io/\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
                 "overlay": true
               },
               {
@@ -4167,7 +4167,7 @@
           },
           "title4": "Microsoft Excel",
           "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://drive.google.com/file/d/1WCp2ARsow56cGzm97WTZu2_Z2m-Ez3fR/view?usp=sharing\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-info\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a>",
           "media5": {
             "image": {
               "active": true,
