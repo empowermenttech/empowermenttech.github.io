@@ -142,6 +142,81 @@
           "_anchor": "content5-28"
         },
         {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/cover-1200x800.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Segregation for a Better Nation",
+                "contentAlign": "right",
+                "text": "We advocate cleanliness by means of segregation, we encourage you to contribute for our cost, not only for a better community, but also for the future genarations to come.&nbsp;",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://scorrpy.github.io/\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-5510-2000x1453.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "North Compass Movement&nbsp;",
+                "contentAlign": "right",
+                "text": "Our website aims to inform people about the displeasing environment through a presentation of pictures and blogs. The goal is to persuade people that a simple cooperation and discipline could make not just a specific area to be a much pleasing place but also for the world.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://northcompassmovement.github.io/Home.html\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VISIT</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.5"
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1920.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "STEM A",
+                "contentAlign": "center",
+                "text": "...",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+                "overlay": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/received-246008386110157-2000x1333.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Case File No.1 : <br>Near-Campus Smoking",
+                "contentAlign": "right",
+                "text": "This site is a collection of case files about the prominent use of cigarettes around the vicinity of the campus which is prohibited by the school and the law. It aims to provide awareness to the school, students and the community to eliminate this kind of action.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://reynaldlawrencecastro.github.io/case1/index.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+                "overlay": true
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-2",
+          "_styles": {
+            "H1": {
+              "color": "#faaf40",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          }
+        },
+        {
           "_inherit": "msg-box1",
           "_styles": {
             ".mbr-header .mbr-header__text": {
@@ -178,80 +253,6 @@
           ],
           "_name": "msg-box2",
           "_anchor": "msg-box2-2m"
-        },
-        {
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_params": {
-            "autoplay": true,
-            "fullScreen": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showBullets": true,
-            "bgColor": "#ffffff",
-            "slides": [
-              {
-                "image": "@PROJECT_PATH@/assets/images/cover-1200x800.jpg",
-                "active": true,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "Segregation for a Better Nation",
-                "contentAlign": "right",
-                "text": "We advocate cleanliness by means of segregation, we encourage you to contribute for our cost, not only for a better community, but also for the future genarations to come.&nbsp;",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://scorrpy.github.io/\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1920x1280.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "ABM",
-                "contentAlign": "left",
-                "text": "Empowerment Technologies is a specialized module designed to provide students with the foundation of <br>knowledge and skills needed to succeed in envronments that require the use of computer and the internet.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page6.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1920.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "STEM A",
-                "contentAlign": "center",
-                "text": "...",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
-                "overlay": true
-              },
-              {
-                "image": "@PROJECT_PATH@/assets/images/img1-1534x812.jpg",
-                "active": false,
-                "showButtons": true,
-                "showText": true,
-                "showTitle": true,
-                "title": "STEM B",
-                "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"page1.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
-                "overlay": true
-              }
-            ]
-          },
-          "articleLayout": false,
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "slider",
-          "_anchor": "slider-2",
-          "_styles": {
-            "H1": {
-              "color": "#faaf40",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
-            }
-          }
         },
         {
           "_params": {
