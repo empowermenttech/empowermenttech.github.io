@@ -164,8 +164,8 @@
                 "overlay": true
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/img-5510-2000x1453.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/img-5509-2000x1453.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -190,7 +190,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/received-246008386110157-2000x1333.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
