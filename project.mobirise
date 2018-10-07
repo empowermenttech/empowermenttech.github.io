@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Empowerment Technologies",
-    "currentPage": "page1.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
@@ -15,7 +15,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.1",
     "siteFonts": [],
-    "uniqCompNum": 101,
+    "uniqCompNum": 102,
     "versionPublish": "4.8.1",
     "screenshot": "screenshot.png"
   },
@@ -165,7 +165,7 @@
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/img-5509-2000x1453.jpg",
-                "active": true,
+                "active": false,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
@@ -177,16 +177,17 @@
                 "overlayOpacity": "0.5"
               },
               {
-                "image": "@PROJECT_PATH@/assets/images/mbr-1-1920x1920.jpg",
-                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/20180925-103344-2000x972.jpg",
+                "active": true,
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "STEM A",
+                "title": "Build BulSU",
                 "contentAlign": "center",
-                "text": "...",
-                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
-                "overlay": true
+                "text": "Our website aims to inform people about the current status of the BulSU students. Look at the pictures of real-life situations and read the testimonies of those afflicted. We assure you that what you're about to see is nothing but the truth, not only in BulSU, but in multiple other institutions as well. This is our goal: change through awareness.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://buildbulsu18.github.io/Emptech/index.html\" data-toolbar=\"-mbrBtnMove\">VISIT</a> ",
+                "overlay": true,
+                "overlayOpacity": "0.4"
               },
               {
                 "image": "@PROJECT_PATH@/assets/images/received-246008386110157-2000x1333.jpg",
@@ -212,7 +213,11 @@
             "H1": {
               "color": "#faaf40",
               "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "right"
+            },
+            "P": {
+              "text-align": "right"
             }
           }
         },
@@ -245,7 +250,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "title": "ANNOUNCEMENT:<br>Grades will not be recorded until you published your website on Github.",
+          "title": "ANNOUNCEMENT:<br>Grades will not be recorded until you published your websites on Github.",
           "text": "",
           "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">TRY FOR FREE</a>",
           "_tags": [
@@ -1016,9 +1021,9 @@
               "size": 0
             }
           },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title1": "<div>A-kyub</div>",
+          "caption1": "<br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://a-kyub.github.io/gudodeguz/index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media2": {
             "image": {
               "active": true,
@@ -1036,9 +1041,9 @@
               "size": 0
             }
           },
-          "title2": "RESPONSIVE",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title2": "<div>BSU CASE FILES</div>",
+          "caption2": "<br><br><br>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://reynaldlawrencecastro.github.io/case1/index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media3": {
             "image": {
               "active": true,
@@ -1056,9 +1061,9 @@
               "size": 0
             }
           },
-          "title3": "WEB FONTS",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title3": "O.B.I.",
+          "caption3": "<br><br><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://captnachos.github.io/OBI/\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media4": {
             "image": {
               "active": true,
@@ -1076,9 +1081,9 @@
               "size": 0
             }
           },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
+          "title4": "Wagij.ot",
+          "caption4": "<br><br><br>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://kennethpimentel.github.io/index.html\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">LEARN MORE</a>",
           "media5": {
             "image": {
               "active": true,
@@ -1123,772 +1128,12 @@
             "Theme"
           ],
           "_name": "features1",
-          "_anchor": "features1-v"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
+          "_styles": {
+            ".mbr-section__col .mbr-header__text": {
+              "font-size": "24px"
             }
           },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1a"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1b"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1c"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1d"
-        },
-        {
-          "_params": {
-            "showHeader": false,
-            "showSubheader": false,
-            "showImages": false,
-            "showTitles": true,
-            "showCaptions": true,
-            "showButtons": true,
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "columns": 4,
-            "bgImageRadio": false,
-            "bgImage": "images/bg3.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "headerAlign": "left",
-          "header": "DROP-DEAD EASY WEBSITE MAKER",
-          "subheader": "By John Smith posted July 30, 2015",
-          "media1": {
-            "image": {
-              "active": true,
-              "src": "images/bootstrap.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title1": "BOOTSTRAP 3",
-          "caption1": "",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media2": {
-            "image": {
-              "active": true,
-              "src": "images/responsive.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title2": "RESPONSIVE",
-          "caption2": "",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media3": {
-            "image": {
-              "active": true,
-              "src": "images/google-fonts.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title3": "WEB FONTS",
-          "caption3": "",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media4": {
-            "image": {
-              "active": true,
-              "src": "images/unlimited-websites.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title4": "UNLIMITED WEBSITES",
-          "caption4": "",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media5": {
-            "image": {
-              "active": true,
-              "src": "images/blocks.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title5": "TRENDY WEBSITE BLOCKS",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "media6": {
-            "image": {
-              "active": true,
-              "src": "images/host.png",
-              "class": "mbr-figure__img",
-              "width": 600
-            },
-            "video": {
-              "class": "mbr-figure__img",
-              "src": "http://www.youtube.com/embed/sOSTC6FM6Bw"
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-features1",
-              "link": "",
-              "size": 0
-            }
-          },
-          "title6": "HOST ANYWHERE",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"mbr-buttons__btn btn btn-wrap btn-xs-lg btn-default\">LEARN MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features1",
-          "_anchor": "features1-1e"
+          "_anchor": "features1-2t"
         },
         {
           "_params": {

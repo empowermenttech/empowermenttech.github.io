@@ -45,6 +45,10 @@
 #slider-2 H1 {
   color: #faaf40;
   font-family: 'Oswald', sans-serif;
+  text-align: right;
+}
+#slider-2 P {
+  text-align: right;
 }
 #msg-box2-2m .mbr-header .mbr-header__text {
   color: #f7da64;
@@ -181,6 +185,9 @@
 }
 #content5-23 .mbr-article {
   color: #fff;
+}
+#features1-2t .mbr-section__col .mbr-header__text {
+  font-size: 24px;
 }
 
 
